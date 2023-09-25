@@ -1,0 +1,22 @@
+# ANALYSING AMAZON PRODUCT SALES
+
+## ABSTRACT:
+
+Project Introduction:
+The Amazon Sales Analysis project is a data analysis and forecasting project that aims to provide insights into Amazon sales data. The project involves analyzing various aspects such as sales trends, product segmentation, geographic sales analysis, and clustering of sales data. The dataset used for analysis contains information on order details, fulfillment channels, product categories, quantities, amounts, and more. By applying statistical analysis, time series forecasting, clustering techniques, and visualization, this project aims to uncover patterns, trends, and actionable insights from the Amazon sales data.
+
+## Project Overview:
+
+The dataset used for the analysis consists of information related to product orders, including quantity, sales amount, date, category, and shipping details and is obtained from Kaggle website. Time series analysis is a popular statistical method used for forecasting future values based on past data. In this study, the time series analysis will be used to analyze the sales data of Amazon products and to develop a forecasting model that predicts future sales.
+
+Time Series Analysis:
+Time series analysis is performed to examine the monthly sales trend. The ARIMA model is applied to forecast future sales, and the results show the predicted sales for the upcoming four months.
+
+Clustering:
+Clustering, on the other hand, is a machine learning technique used for grouping similar data points together. In this study, clustering will be used to group the sales data of Amazon products based on their similarities. The resulting clusters will then be used to develop individual forecasting models for each cluster. The Silhouette Score is utilized to determine the optimal number of clusters.
+
+Discriminant Analysis:
+Discriminant analysis will be utilized to classify products into different sales categories based on the identified clusters and additional predictor variables. Discriminant analysis will help in identifying the key factors that differentiate high-performing products from others and thus enabling more accurate sales forecasts. In this project, discriminant analysis was employed to classify the status of orders based on various numeric features.
+
+## Conclusion:
+Overall, this project demonstrates the application of time series analysis, clustering, and geographic analysis techniques to gain valuable insights into Amazon product sales. The findings can aid decision-making processes related to sales forecasting, customer segmentation, product strategy, and geographic targeting. The project provides a comprehensive understanding of sales trends, customer behavior, and market dynamics, enabling businesses to make data-driven decisions for enhanced performance and profitability.
