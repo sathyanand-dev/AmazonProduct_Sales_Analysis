@@ -61,7 +61,7 @@ The project includes the following analysis steps:
 
 The dataset used for this analysis is a CSV file named "Amazon Sale Report.csv" containing Amazon sales data. Unfortunately, the file is too large to be uploaded to GitHub.
 
-If you would like to obtain the dataset, please contact me via email at (k.k.v.dinesh33@gmail.com).
+If you would like to obtain the dataset, please contact me via email at (sathyanand02@gmail.com).
 
 Kindly mention the purpose of your request and provide your intended use for the dataset.
 
